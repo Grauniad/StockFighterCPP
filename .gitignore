@@ -16,6 +16,9 @@
 # Fortran module files
 *.mod
 
+# vim
+.*.swp
+
 # Compiled Static libraries
 *.lai
 *.la
@@ -26,3 +29,13 @@
 *.exe
 *.out
 *.app
+
+# DEV_TOOLS
+.gdb_breakpoints
+makefile.include
+exports
+test.full_log
+
+#Tests
+FullLog_*
+OverviewLog_*
