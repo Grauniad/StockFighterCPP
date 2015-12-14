@@ -35,6 +35,7 @@
 makefile.include
 exports
 test.full_log
+jsonGen
 
 #Tests
 FullLog_*
