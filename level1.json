@@ -1,0 +1,24 @@
+{
+    "Client": {
+        "port"   : 8105
+    },
+    "StockFighter": {
+        "authKey"   : "SET ME",
+        "apiServer" : "api.stockfighter.io",
+        "apiServerBaseUrl": "/ob/api/"
+    },
+
+    "Accounts" : [
+        {
+            "Name": "Trading Account",
+            "Code": "BB41734230"
+        }
+    ],
+
+    "Venues" : [
+            {
+                "Name": "HeavyPower Munich Board of Trade ",
+                "Code": "HPMBEX"
+            }
+        ]
+}

@@ -29,6 +29,8 @@
 *.exe
 *.out
 *.app
+stock_fighter
+core.*
 
 # DEV_TOOLS
 .gdb_breakpoints
